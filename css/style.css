@@ -1,0 +1,54 @@
+body,
+html {
+  width: 100%;
+  height: 100%; }
+  
+body {
+	background-color: #fcf0db;
+}
+
+@font-face {
+	font-family: rainmaker;
+	src: url(rainmaker.otf);
+}
+
+#myName {
+	font-family: rainmaker;
+	font-size: 10rem;
+}
+
+section {
+  padding: 8rem 0; }
+
+.service-box {
+  max-width: 400px; }
+
+
+.fa {
+	font-size: 12.5rem;
+	color: black;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+  
+#twitter:hover {
+	color: red;
+}
+
+#instagram:hover {
+	color: green;
+}
+
+#github:hover {
+	color: purple;
+}
+
+#resume:hover {
+	color: blue;
+}
